@@ -15,8 +15,4 @@ public class I extends E {
     public int af() {
         return -1;
     }
-
-    public double ee() {
-        return 0.000001;
-    }
 }

@@ -23,8 +23,4 @@ public class E implements D {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
-
-    public java.util.List<String> jj() {
-        return new java.util.LinkedList<String>();
-    }
 }
