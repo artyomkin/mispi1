@@ -19,12 +19,4 @@ public class E implements D {
     public void bb() {
         System.out.println(getClass().getName());
     }
-
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
-
-    public java.util.List<String> jj() {
-        return new java.util.LinkedList<String>();
-    }
 }
