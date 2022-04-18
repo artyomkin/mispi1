@@ -19,4 +19,8 @@ public class E implements D {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
