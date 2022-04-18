@@ -11,12 +11,4 @@ public class I extends E {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
-
-    public int af() {
-        return -1;
-    }
-
-    public double ee() {
-        return 0.000001;
-    }
 }
