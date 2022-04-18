@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private byte a = 1;
 
@@ -16,4 +16,19 @@ public class G {
         return new java.util.Random(10).nextInt(10);
     }
 
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
 }
