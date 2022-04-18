@@ -31,4 +31,8 @@ public class E implements D {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public Object pp() {
+        return this;
+    }
 }
