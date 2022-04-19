@@ -1,4 +1,4 @@
-public class E implements D {
+public class E extends null implements D {
 
     private long j = 1234;
 
@@ -27,4 +27,29 @@ public class E implements D {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public String kk() {
+        return "Yes";
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public int ae() {
+        return 8;
+    }
+
+    public byte oo() {
+        return 3;
+    }
 }
+
