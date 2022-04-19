@@ -23,4 +23,8 @@ public class I extends E {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }

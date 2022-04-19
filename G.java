@@ -23,4 +23,8 @@ public class G extends null {
     public void aa() {
         return;
     }
+
+    public long ac() {
+        return 333;
+    }
 }
