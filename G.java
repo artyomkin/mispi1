@@ -19,14 +19,5 @@ public class G extends null {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
-
-    public void aa() {
-        return;
-    }
-
-    public Object rr() {
-        return null;
-    }
-
 }
 
