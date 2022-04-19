@@ -31,4 +31,8 @@ public class I extends E {
     public String kk() {
         return "Yes";
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
