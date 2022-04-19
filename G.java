@@ -23,4 +23,8 @@ public class G {
     public void aa() {
         return;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
