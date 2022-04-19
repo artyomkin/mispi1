@@ -27,4 +27,8 @@ public class I extends E {
     public int ae() {
         return 8;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }
