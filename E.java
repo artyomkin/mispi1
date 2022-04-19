@@ -1,4 +1,4 @@
-public class E implements D {
+public class E extends null implements D {
 
     private long j = 1234;
 

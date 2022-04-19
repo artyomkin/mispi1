@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private byte a = 1;
 
