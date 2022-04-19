@@ -12,20 +12,12 @@ public class I extends E {
         return new java.util.ArrayList<String>();
     }
 
-    public int af() {
-        return -1;
-    }
-
     public double ee() {
-        return 0.000001;
+        return 100.500;
     }
 
     public void aa() {
         System.out.println("void aa");
-    }
-
-    public Object gg() {
-        return new java.util.Random();
     }
 
     public double ad() {
@@ -38,6 +30,42 @@ public class I extends E {
 
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public int ae() {
+        return 8;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
     }
 }
 

@@ -21,7 +21,51 @@ public class E extends null implements D {
     }
 
     public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public String kk() {
+        return "No";
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public double ee() {
+        return 100.500;
     }
 
     public java.util.List<String> jj() {
