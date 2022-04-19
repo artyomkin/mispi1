@@ -19,4 +19,8 @@ public class G {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public void aa() {
+        return;
+    }
 }
