@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private byte a = 1;
 
@@ -19,4 +19,21 @@ public class G {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public void aa() {
+        return;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public long ac() {
+        return 333;
+    }
 }
+

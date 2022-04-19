@@ -19,4 +19,17 @@ public class I extends E {
     public double ee() {
         return 0.000001;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public double ad() {
+        return 9.11;
+    }
 }
+
