@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private byte a = 1;
 
@@ -13,11 +13,7 @@ public class G {
     }
 
     public int hh() {
-        return new java.util.Random(10).nextInt(10);
-    }
-
-    public String nn() {
-        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+        return new java.util.Random().nextInt();
     }
 
     public void aa() {
@@ -28,7 +24,16 @@ public class G {
         return null;
     }
 
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
     public void ab() {
         System.out.println();
     }
+
+    public double ad() {
+        return 11;
+    }
 }
+
