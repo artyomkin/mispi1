@@ -19,20 +19,4 @@ public class I extends E {
     public double ee() {
         return 0.000001;
     }
-
-    public void aa() {
-        System.out.println("void aa");
-    }
-
-    public int ae() {
-        return 8;
-    }
-
-    public String kk() {
-        return "Yes";
-    }
-
-    public void ab() {
-        System.out.println();
-    }
 }

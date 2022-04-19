@@ -19,20 +19,4 @@ public class G {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
-
-    public void aa() {
-        return;
-    }
-
-    public Object rr() {
-        return null;
-    }
-
-    public void ab() {
-        System.out.println();
-    }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
-    }
 }
