@@ -31,8 +31,4 @@ public class G {
     public void ab() {
         System.out.println();
     }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
-    }
 }
