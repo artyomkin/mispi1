@@ -27,4 +27,8 @@ public class G {
     public Object rr() {
         return null;
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
