@@ -35,4 +35,8 @@ public class E implements D {
     public Object pp() {
         return this;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
