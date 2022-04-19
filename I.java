@@ -24,7 +24,5 @@ public class I extends E {
         System.out.println("void aa");
     }
 
-    public int cc() {
-        return 13;
-    }
 }
+
