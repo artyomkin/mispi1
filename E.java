@@ -36,12 +36,5 @@ public class E extends null implements D {
         return this;
     }
 
-    public String kk() {
-        return "Yes";
-    }
-
-    public int cc() {
-        return 39;
-    }
 }
 

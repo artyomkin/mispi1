@@ -27,12 +27,6 @@ public class G extends null {
     public Object rr() {
         return null;
     }
-    public void bb() {
-        System.out.println(getClass().getName());
-    }
 
-    public long ac() {
-        return 333;
-    }
 }
 
