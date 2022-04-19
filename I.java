@@ -21,7 +21,7 @@ public class I extends E {
     }
 
     public void aa() {
-        System.out.println("void aa");
+        System.out.println("Hello world!");
     }
 
     public int ae() {
@@ -31,4 +31,37 @@ public class I extends E {
     public String kk() {
         return "Yes";
     }
+
+    public byte oo() {
+        return 4;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public long dd() {
+        return 33;
+    }
 }
+
