@@ -24,3 +24,4 @@ public class I extends E {
         System.out.println("void aa");
     }
 }
+

@@ -32,3 +32,4 @@ public class E extends null implements D {
         return getClass();
     }
 }
+
